@@ -25,6 +25,10 @@ Follow these steps to get this project up and running on your local machine:
 - A device capable of communicating over BLE (like a smartphone or computer)
 - PlatformIO IDE and Arduino framework installed on your computer
 
+### Connection
+
+![alt text](/images/neurawave_bb.png)
+
 ### Installation
 
 1. **Clone the Repository**
